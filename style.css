@@ -114,9 +114,10 @@ li a:hover {
 }
 
 .appstabbutton {
-    background-size: 30px 30px;
-    background-position: -132px -38px;
     font-size: 13px;
+    color: #fff;
+    max-width: 70%;
+    height: auto;
 }
 
 .signinbutton {
@@ -144,7 +145,7 @@ li a:hover {
     margin-right: 100px;
     padding-right: 100px;
     left: 29.5%;
-    top: 44.5%;
+    top: 46%;
 }
 
 .searchlogo {
@@ -153,7 +154,7 @@ li a:hover {
     height: 24px;
     width: 24px;
     left:27%;
-    bottom: 50%;
+    bottom: 48.5%;
 }
 
 .voicelogo {
@@ -162,5 +163,5 @@ li a:hover {
     height: 24px;
     width: 24px;
     left: 70%;
-    bottom: 50%;
+    bottom: 48.5%;
 }
